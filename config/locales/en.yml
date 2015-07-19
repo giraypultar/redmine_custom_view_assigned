@@ -8,3 +8,5 @@ en:
   label_custom_view_assigned_grouping_by_group: "By group"
   label_custom_view_assigned_grouping_by_role: "By role"
   label_custom_view_assigned_current_user: "Current user"
+  label_custom_view_assigned_unique_users: "Show users only once even if they exist in different roles/groups"
+
